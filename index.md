@@ -1,7 +1,7 @@
 Privacy Policy
-Last updated: [Date]
+Last updated: 29th Sep 2026
 
-[Your App Name] ("we," "our," or "us") is built and maintained by [Your Full Name] as an individual developer. This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our mobile application.
+AirwaysJP ("we," "our," or "us") is built and maintained by Atul P. as an individual developer. This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our mobile application.
 
 1. Information Collection and Use
 We do not collect, transmit, store, or share any personal information, usage data, device identifiers, or location data.
@@ -24,11 +24,6 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 5. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Email: [Your Support Email Address]
+Email: ja3955@gmail.com
 
-Website / Project Link: [Your GitHub/Support Page URL]
-
-Tips for Implementation
-Replace Placeholders: Make sure to replace [Your App Name], [Your Full Name], [Date], and [Your Support Email Address] before publishing.
-
-Apple Privacy Declarations: When filling out the App Privacy section in App Store Connect, select "Data Not Collected". Your answers in App Store Connect must match this policy statement.
+Website / Project Link: [Support Page URL]
